@@ -1,29 +1,5 @@
-# SLIMBOOK
-"Welcome to freedom"
-
-El ultrabook GNU/Linux
-
-www.slimbook.es
-
-SLIMBOOK TEAM
-
-Scripts
---
-Para ejecutar los scripts;
-1. Descárgalos
-2. Abre una terminal (ctrl+alt+t)
-3. Sitúate en la ruta de script:
-  ```
-  cd <ruta>
-  ```
-4. Ejecútalo usando bash:
-  ```
-  bash script.sh
-  ```
-
-
-Desarrollamos aplicaciones para optimizar tu portátil ultrabook.
-Código fuente a tu disposición bajo licencia Creative Commons BY-NC-ND 3.0
+# SLIMBOOK TEAM
+"Welcome to freedom" - GNU/Linux Ultrabooks - [Visit our website](www.slimbook.es
 
 
 ### 👋 Welcome to Slimbook, here are some stats about us ...
@@ -40,18 +16,19 @@ Código fuente a tu disposición bajo licencia Creative Commons BY-NC-ND 3.0
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimbook&layout=compact&theme=dark)](https://github.com/slimbook)
 
 
-### 🤔 I’m looking for help with anything you want to help with ;)
+## We develop applications to optimize your ultrabook laptop.
 
 ### 📫 How to reach us: ...
 - Send an e-mail to: dev@slimbook.es
+### 🤔 We are looking for help with anything you want to help with ;)
 
 ## Issues
 
-Having issues? Just report in [the issue section](https://github.com/uta-org/jekyll-patreon/issues). **Thanks for the feedback!**
+Having issues? Just report in [the issue section](https://github.com/slimbook/slimbook/issues). **Thanks for the feedback!**
 
 ## Contribute
 
-Fork this repository, make your changes and then issue a pull request. If you find bugs or have new ideas that you do not want to implement yourself, file a bug report.
+Fork any of our repositories, make your changes and then issue a pull request. If you find bugs or have new ideas that you do not want to implement yourself, fill a bug report.
 
 ## Donate
 
