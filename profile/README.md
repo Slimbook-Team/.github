@@ -3,7 +3,7 @@
 
 ### 👋 Welcome to Slimbook, here are some stats about us ...
 
-![slimbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimbook&show_icons=true&theme=dark)
+![slimbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimbook-team&show_icons=true&theme=dark)
  <img src="https://user-images.githubusercontent.com/89640378/191308222-b1b16e82-ca87-4414-b2e5-93f3efdbb062.png" alt="Slimbook logo" width="200" height="200"> 
 
 ### 💻 ... and for that I'm mostly using ...
