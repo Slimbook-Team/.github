@@ -8,7 +8,7 @@
 
 ### 💻 ... and for that I'm mostly using ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimbook&layout=compact&theme=dark)](https://github.com/slimbook)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimbook-team&layout=compact&theme=dark)](https://github.com/slimbook)
 
 
 ## We develop applications to optimize your ultrabook laptop.
