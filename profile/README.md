@@ -6,7 +6,7 @@
 
 ![slimbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimbook&show_icons=true&theme=dark)
 <img src="https://user-images.githubusercontent.com/18195266/191217337-a02a8ef8-74ba-4ddc-84cd-55385aa8cfe2.png" align="right"
-     alt="Slimbook Logo" width="30%">
+     alt="Slimbook Logo" width="20%">
 
 ### 💻 ... and for that I'm mostly using ...
 
