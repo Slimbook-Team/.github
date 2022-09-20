@@ -1,15 +1,12 @@
 # SLIMBOOK TEAM
 "Welcome to freedom" - GNU/Linux Ultrabooks - [Visit our website](https://www.slimbook.es)
 
-
 ### 👋 Welcome to Slimbook, here are some stats about us ...
-
-<img src="https://github.com/slimbook/slimbookbattery/blob/main/images/slimbook_splash.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="200" height="200">
-
 
 
 ![slimbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimbook&show_icons=true&theme=dark)
+<img src="https://user-images.githubusercontent.com/18195266/191217337-a02a8ef8-74ba-4ddc-84cd-55385aa8cfe2.png" align="right"
+     alt="Slimbook Logo" width="200">
 
 ### 💻 ... and for that I'm mostly using ...
 
