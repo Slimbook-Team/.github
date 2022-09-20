@@ -1,5 +1,5 @@
 # SLIMBOOK TEAM
-"Welcome to freedom" - GNU/Linux Ultrabooks - [Visit our website](www.slimbook.es)
+"Welcome to freedom" - GNU/Linux Ultrabooks - [Visit our website](https://www.slimbook.es)
 
 
 ### 👋 Welcome to Slimbook, here are some stats about us ...
