@@ -1,15 +1,16 @@
-# SLIMBOOK TEAM
-"Welcome to freedom" - GNU/Linux Ultrabooks - [Visit our website](https://www.slimbook.es)
+# SLIMBOOK TEAM (New)
+"Welcome to freedom" - GNU/Linux Ultrabooks
+
+![GitHub followers](https://img.shields.io/github/followers/slimbook-team?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Firefox&logoColor=white&link=https://slimbook.es)](https://slimbook.es)
+<a href="https://twitter.com/Slimbook" target="_blank">
+    <img alt="Twitter: SlimbookEs" src="https://img.shields.io/twitter/follow/Slimbook.svg?style=social" />
+</a>
 
 ### 👋 Welcome to Slimbook, here are some stats about us ...
 
 ![slimbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimbook&show_icons=true&theme=dark)
- <img src="https://user-images.githubusercontent.com/89640378/191308222-b1b16e82-ca87-4414-b2e5-93f3efdbb062.png" alt="Slimbook logo" width="200" height="200"> 
-
-### 💻 ... and for that I'm mostly using ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimbook&layout=compact&theme=dark)](https://github.com/slimbook)
-
+ <img src="https://user-images.githubusercontent.com/89640378/191308222-b1b16e82-ca87-4414-b2e5-93f3efdbb062.png" alt="Slimbook logo"  align='right'  width="200" height="200"> 
 
 ## We develop applications to optimize your ultrabook laptop.
 
@@ -23,7 +24,9 @@ Having issues? Just report in [the issue section](https://github.com/slimbook/sl
 
 ## Contribute
 
-Fork any of our repositories, make your changes and then issue a pull request. If you find bugs or have new ideas that you do not want to implement yourself, fill a bug report.
+Fork any of our repositories, make your changes and then issue a pull request. 
+
+If you find bugs or have new ideas that you do not want to implement yourself, fill a bug / enhancement report.
 
 ## Donate
 
